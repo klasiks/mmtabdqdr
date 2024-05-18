@@ -1,0 +1,102 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "219484e8ba6d0f951db92686b8f75b9d",
+                "name": "Askinig Oti Yaman",
+                "artist": "",
+                "album": "",
+                "url": "static/Askinig Oti Yaman.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "219484e8ba6d0f951db92686b8f75b9d",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "1e39eb06b2c0ef84d8c656bd2578e8df",
+                "name": "Assalamu Alaikum",
+                "artist": "",
+                "album": "",
+                "url": "static/Assalamu Alaikum.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "1e39eb06b2c0ef84d8c656bd2578e8df",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "bed063630ffbc8fc9af7a34f9c19398c",
+                "name": "Hak Nima Dap Qalar",
+                "artist": "",
+                "album": "",
+                "url": "static/Hak Nima Dap Qalar.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "bed063630ffbc8fc9af7a34f9c19398c",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "d0acb6e8d314cfb21824066497c84c80",
+                "name": "Musapir Nahshisi",
+                "artist": "",
+                "album": "",
+                "url": "static/Musapir Nahshisi.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "d0acb6e8d314cfb21824066497c84c80",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "d61bbbfbf8c8310e03948924f809d031",
+                "name": "Shukuri",
+                "artist": "",
+                "album": "",
+                "url": "static/Shukuri.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "d61bbbfbf8c8310e03948924f809d031",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "48ca2ea811c48502f131e683f61691be",
+                "name": "Sual Sorak",
+                "artist": "",
+                "album": "",
+                "url": "static/Sual Sorak.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "48ca2ea811c48502f131e683f61691be",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "8c3cb6586ab6a20ecca1df0fc63c04ca",
+                "name": "Turmush",
+                "artist": "",
+                "album": "",
+                "url": "static/Turmush.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "8c3cb6586ab6a20ecca1df0fc63c04ca",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
